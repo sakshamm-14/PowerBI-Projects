@@ -1,4 +1,3 @@
-PowerBI Projects
 Welcome to the PowerBI Projects repository! This repository contains various PowerBI projects that I have worked on. Each project demonstrates different aspects of data visualization, data analysis, and business intelligence using Microsoft PowerBI.
 
 Table of Contents
